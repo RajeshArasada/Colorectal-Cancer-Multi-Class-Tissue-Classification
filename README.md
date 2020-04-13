@@ -39,9 +39,9 @@ Libraries               : TensorFlow2.0, ResNet50, VGG19, MobileNet, ImageNet, M
 ## Performance Metrics
 |           | Acc. Test Data | Loss Test Data | Acc. External Data | Loss External Data |
 | ----------| -------------- | ---------------|------------------- |------------------- |
-|  VGG19    |      0.991     |     0.031      |       0.190        |       0.939        |
+|  VGG19    |      0.991     |     0.031      |       0.939        |       0.190        |
 | MobileNet |      0.987     |     0.042      |       0.915        |       0.399        | 
-| ResNet50  |      0.96      |    0.992       |      0.927         |       0.339        |
+| ResNet50  |      0.96      |     0.992       |      0.927        |       0.339        |
 
 
 ## Model and Training Parameters
